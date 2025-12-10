@@ -22,9 +22,9 @@ import static java.util.stream.Collectors.joining;
 
 /**
  * @since 2025-12-09
- * @url https://www.hackerrank.com/mock-interviews/software-engineer/coding/146248?version=2
+ * @title mock-interviews (hacker-rank)
+ * https://www.hackerrank.com/mock-interviews/software-engineer/coding/146248?version=2
  * @tag 문자열 비교
- * O(1) / O(1)
  */
 public class RemoveAndMakeSame {
     public static List<Integer> getRemovableIndices(String str1, String str2) {

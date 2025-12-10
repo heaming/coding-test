@@ -6,7 +6,9 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
 /**
- * @url https://www.hackerrank.com/challenges/journey-to-the-moon/problem?isFullScreen=true
+ * @since 202-12-09
+ * @title Journey to the moon
+ * https://www.hackerrank.com/challenges/journey-to-the-moon/problem?isFullScreen=true
  * @tag graph dfs
  */
 class JourneyToMoon {
